@@ -1,0 +1,21 @@
+@keyframes color {
+
+    0% {
+        background: blue;
+    }
+
+    50% {
+        background: darkgreen;
+    }
+
+    100% {
+        background: blue;
+    }
+}
+
+body {
+    animation: color 5s linear infinite;
+    background-color: black; 
+    text-align: center;
+    padding: 2em;
+}

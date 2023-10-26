@@ -1,0 +1,26 @@
+@keyframes color {
+
+0% {background-color: blue;}
+20% {background-color: aquamarine;}
+40% {background-color: aqua;}
+60% {background-color: darkblue;}
+80% {background-color: darkorange;}
+100% {background-color: black;}
+
+
+
+
+
+} 
+
+body {
+
+background-color: deeppink; /* fallback */
+animation: color 5s infinite linear;
+text-align: center; 
+padding: 2em;
+
+
+
+
+}

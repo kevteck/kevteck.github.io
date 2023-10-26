@@ -1,27 +1,3 @@
-body {
-
-background-color: ;    
-    color: aquamarine;
-}
 body{
-background-color: maroon;
-color: rgb(0, 0, 0);
-
+    background-color: aquamarine;
 }
-
-p {
-    background-color: azure;
-    padding: 20px;
-    border-radius: 40px;
-    margin: 10px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-h1{
-    font-family: sans-serif;
-    color: blueviolet;
-    background-color: blue;
-
-
-    
-}   
